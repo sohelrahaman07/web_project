@@ -1,2 +1,2 @@
 # web_project
-web_project
+Sample web_project
